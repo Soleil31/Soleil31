@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soleil31 (Ivan Matveev)
-- 👀 I’m interested in English, C++, Python, HTML, montage and photoshop.
+- 👀 I’m interested in English, C++, Java, HTML, montage and photoshop.
 - 🌱 I’m currently learning programming languages, montage and photoshop.
 - 💞️ I’m looking to collaborate on Yandex, Tinkoff, Mail.ru, etc.
 - 📫 How to reach me: matveev92iv@icloud.com, https://www.youtube.com/channel/UCawjj8kPwLyk-CnSunJhdfg
