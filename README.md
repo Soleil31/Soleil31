@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soleil31 (Ivan Matveev, IKBO-20-20)
+- 👋 Hi, I’m @Soleil31
 <!---
 Soleil31/Soleil31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
